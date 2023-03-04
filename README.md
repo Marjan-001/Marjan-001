@@ -2,7 +2,7 @@ Hey! Nice to see you 👋
 
 I am Marjan, a computer science engineer and a front-end developer. Expertise : Node JS, MongoDB, React JS,JavaScript, HTML, CSS || Wishlist: Full Stack Development || Developing my skills over time❤️
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazi-marjan-sultana-8b5529250/)](https://www.linkedin.com/in/kazi-marjan-sultana-8b5529250/)
+[![Linkedin Badge](https://img.shields.io/badge/-marjan-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazi-marjan-sultana-8b5529250/)](https://www.linkedin.com/in/kazi-marjan-sultana-8b5529250/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marjansultana229@gmail.com)](mailto:marjansultana229@gmail.com)
 
 
