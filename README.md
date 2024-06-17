@@ -1,5 +1,4 @@
 Hey! Nice to see you 👋
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 
 I am Marjan, a computer science engineer and a front-end developer. Expertise : Node JS, MongoDB, React JS,JavaScript, HTML, CSS || Wishlist: Full Stack Development || Developing my skills over time❤️
