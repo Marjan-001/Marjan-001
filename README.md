@@ -1,6 +1,6 @@
 Hey! Nice to see you 👋
 
-![Header](./github-header-image(1).png)
+![Header](./github-header-image (1).png)
 
 
 I am Marjan, a computer science engineer and a front-end developer. Expertise : Node JS, MongoDB, React JS,JavaScript, HTML, CSS || Wishlist: Full Stack Development || Developing my skills over time❤️
